@@ -1,0 +1,1 @@
+print("c'est pas un jeu")
